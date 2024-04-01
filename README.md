@@ -1,0 +1,2 @@
+# ForeverPlugins
+Plugins for ForeverPad
