@@ -1,0 +1,10 @@
+{
+    "devil.py": {
+        "name": "devil.py",
+        "description": "prints out the breakdown of Bury the Light song from Devil May Cry. also does show_info"
+    },
+    "bee.py": {
+        "name": "bee.py",
+        "description": "prints the whole Bee Movie script in the console"
+    }
+}
