@@ -1,6 +1,4 @@
 # devil.py #
-import sys
-sys.path.append('..')
 from pdk import *
 on = True
 
