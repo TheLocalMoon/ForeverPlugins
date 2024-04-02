@@ -1,4 +1,6 @@
 # devil.py #
+# prints the breakdown for bury the light (dmc song)
+# also makes it show_info if on
 from pdk import *
 on = True
 
