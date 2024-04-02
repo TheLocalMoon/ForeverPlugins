@@ -6,5 +6,13 @@
     "bee.py": {
         "name": "bee.py",
         "description": "prints the whole Bee Movie script in the console"
+    },
+    "pdk.py": {
+        "name": "pdk.py",
+        "description": "Plugin Development Kit"
+    },
+    "example.py": {
+        "name": "example.py",
+        "description": "the name pretty much explains itself"
     }
 }
